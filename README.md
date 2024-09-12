@@ -1,6 +1,6 @@
 # AAA-Server-RADIUS-
 ### update your server
-'''
-sudo apt update '''
-'''
-sudo apt upgrade -y '''
+```
+sudo apt update ```
+```
+sudo apt upgrade -y ```
