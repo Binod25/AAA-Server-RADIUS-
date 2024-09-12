@@ -10,4 +10,4 @@ sudo apt upgrade -y
 sudo apt install freeradius freeradius-utils
 ```
 ### Configure FreeRADIUS:
- Edit the clients.conf file to add your client devices (like network access servers):
+ Edit the " clients.conf " file to add your client devices (like network access servers):
